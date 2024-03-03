@@ -1,0 +1,30 @@
+.layout {
+
+display: flex;
+
+}
+
+.onebox {
+
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+    padding-bottom: 20px;
+    border: 1px solid;
+
+}
+
+.twobox {
+
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    border: 1px solid;
+
+}
+
+div{
+
+margin: 3px;
+
+}
